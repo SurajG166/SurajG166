@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **surajg2063@gmail.com**
 
-- ⚡ Fun fact **HardWork beats Talent**
+- ⚡ Fun fact **Hard Work beats Talent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
