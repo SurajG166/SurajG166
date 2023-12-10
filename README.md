@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
     <h1 align="center">Hi 👋, I'm Suraj G ⚡</h1>
 <h3 align="center">Aspiring Web Developer | Exploring DSA | Exploring Saleforce CRM Administration</h3>
 <img align="right" width="450" src="https://media.tenor.com/O-ynx9AH1AAAAAAC/gojo-satoru.gif" alt="coding">
