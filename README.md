@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Suraj G ⚡</h1>
-<h3 align="center">Aspiring Web Developer | Exploring DSA | Exploring Saleforce CRM Administration</h3>
+<h3 align="center">Aspiring Web Developer | Exploring DSA | Cloud</h3>
 <img align="right" width="450" src="https://media.tenor.com/O-ynx9AH1AAAAAAC/gojo-satoru.gif" alt="coding">
 
-- 🔭 I’m currently working on **Side Projects**
+- 🔭 I’m currently working on **Ed tech project fullstack**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **Cloning Websites , Webscrapping**
+- 👯 I’m looking to collaborate on **Cloud projects**
 
-- 🤝 I’m looking for help with **Tailwind,JavaScript**
+- 🤝 I’m looking for help with **java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SurajG166](https://github.com/SurajG166)
 
