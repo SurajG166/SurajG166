@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **Cloud projects**
-
 - 🤝 I’m looking for help with **java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SurajG166](https://github.com/SurajG166)
@@ -17,7 +15,6 @@
 
 - ⚡ Fun fact **Hard Work beats Talent**
 
-<h3 align="left">Connect with me:</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
